@@ -1,0 +1,29 @@
+EXTRA MAHAGURU PROJECT COMPONENTS
+7/1/2026
+gluestick			:75
+double side tape		:15
+flex quick			:60
+servo*2				:300
+total				:450
+
+--------------------------------------------
+MAHGURU 8/1/2026
+bus from & to ktm railway	:46
+train to & fro kyj to ktym	:30+100=130
+bus to & fro junction 		:38+45=82
+auto to & fro  school 		:60*2=120
+food				:200
+
+total 				:579
+----------------------------------------------
+MAHGURU 9/1/2026
+bus from & to ktm railway	:46
+train to & fro kyj to ktym	:30+100=130
+bus to & fro junction 		:30+45=75
+auto to & fro school 		:60*2=120
+food				:300
+
+total 				:671
+---------------------------------------------
+Grand Total			:1700
+
